@@ -1,7 +1,7 @@
 # Conversor de Moedas
 ## Descrição
 
-Este é um simples conversor de moedas que permite converter valores entre diferentes moedas usando taxas de câmbio atualizadas.
+Este é um simples conversor de moedas que permite converter valores entre diferentes moedas usando taxas de câmbio atualizadas. Foi um projeto bem interessante de desenvolver por conta das tecnologias utilizadas, com novos conhecimentos adquiridos diante desse desafio. 
 
 ## Funcionalidades
 
