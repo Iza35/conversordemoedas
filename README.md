@@ -12,8 +12,8 @@ Este é um simples conversor de moedas que permite converter valores entre difer
 Java JDK: versão: 11 em diante,
 Biblioteca Gson 2.10.1 em diante,
 Maven Central Repository Search,
-Postman,
-IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional,
+ExchangeRate-API - Free & Pro Currency Converter API,
+IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional
 
 ## Uso
 
