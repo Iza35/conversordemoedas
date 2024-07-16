@@ -21,3 +21,6 @@ IDE (Ambiente de desenvolvimento integrado) IntelliJ IDEA- opcional
 
 ## Contato
 [Izabella Vieira] - [izabella.vm@hotmail.com]
+
+# Licença
+Este projeto está licenciado sob a Licença MIT. Consulte o arquivo LICENSE para obter mais informações.
